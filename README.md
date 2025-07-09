@@ -4,7 +4,7 @@
 
 <h1 align="center" style="font-size: 2.5rem; margin-bottom: 10px;">Hi 👋🏾</h1>
 <h2 align="center" style="font-size: 1.5rem; margin-top: 0;">I'm Keenan</h2>
-<h3 align="center" style="font-size: 1.2rem; font-weight: normal; margin-top: 10px;">Cloud enthusiast learning in AWS with interests in DevOps, Cybersecurity, FinOps, and AI.</h3>
+<h3 align="center" style="font-size: 1.2rem; font-weight: normal; margin-top: 10px;">Cloud enthusiast learning AWS with interests in DevOps, Cybersecurity, FinOps, and AI.</h3>
 
 ###
 
