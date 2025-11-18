@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="height: 60px; width: auto;" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="height: 60px; width: auto;" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" style="height: 60px; width: auto;" alt="Terraform" title="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="height: 60px; width: auto;" alt="Salesforce" title="Salesforce" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="height: 60px; width: auto;" alt="Jira" title="Jira" />
+  <img src="https://cdn.brandfetch.io/idn6njzi5Z/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1677205843183" style="height: 60px; width: 150px;" alt="Servicenow" title="Servicenow" />
 </div>
 
 ###
