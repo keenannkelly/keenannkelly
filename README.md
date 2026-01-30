@@ -30,15 +30,10 @@
   <a href="https://www.linkedin.com/in/keenannkelly/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="height: 30px;" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/kfearless" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" style="height: 30px;" alt="Dev.to" />
-  </a>
+  
   <a href="https://tryhackme.com/p/Kfearless" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" style="height: 30px;" alt="TryHackMe" />
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="height: 30px;" alt="Instagram" />
-  </a>
+
 </div>
 
 <!--START_SECTION:badges-->
